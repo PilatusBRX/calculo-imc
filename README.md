@@ -1,11 +1,9 @@
 
 <h1 align="center">Meu IMC</h1>
 <p align="center">Projeto <strong>Meu IMC </strong> desenvolvido com React Native</p>
-
-
+<p>Pode baixar o apk aqui: https://drive.google.com/file/d/1O3fjA9df-btGTzh3dWaCMoUHSFtIiiuM/view?usp=sharing</p>
 
 ## Instalação
-
 
 
 O App Mobile (React Native) desenvolvido:
@@ -14,6 +12,6 @@ O App Mobile (React Native) desenvolvido:
 
 </p>
 
-<p>Pode baixar o apk aqui: https://drive.google.com/file/d/1O3fjA9df-btGTzh3dWaCMoUHSFtIiiuM/view?usp=sharing</p>
+
 
 
